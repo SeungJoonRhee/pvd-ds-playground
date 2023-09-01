@@ -1,0 +1,6 @@
+[submodule "hashedcubes"]
+	path = hashedcubes
+	url = git@github.com:cicerolp/hashedcubes.git
+[submodule "imMens"]
+	path = imMens
+	url = git@github.com:uwdata/imMens.git
